@@ -5,6 +5,9 @@ This shapefile was provided by `Joey Thomas`_ at `TNRIS`_.  It's a shapefile
 conversion of the National Hydrography Dataset (NHD) which is only available in
 FileGDB (geodatabase format for ArcGIS).
 
+Available at:
+
+	https://s3.amazonaws.com/raw.texastribune.org/texas_water_development_board/national_hydrography_dataset/2013-09/NHDFlowline_carto.zip
 
 Oddities
 --------
